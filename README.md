@@ -5,7 +5,7 @@ The following task completed for this project:
 
 -> Standardized date format using CAST and updated the table.
     
--> By using a SELF JOIN, populated the PropertyAddress fields where the value is NULL.
+-> By using a JOIN, populated the PropertyAddress fields where the value is NULL.
 
 -> Broken out PropertyAddress and OwnerAddress fields into individual columns using SUBSTRING and PARSENAME functions.
     
