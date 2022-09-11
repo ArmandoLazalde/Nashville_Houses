@@ -1,4 +1,4 @@
-# SQLDataCleaning
+# Nashville Houses Data Cleaning with SQL Server
 
 A SQL data cleaning project using the Nashville housing dataset.
 The following task completed for this project:
