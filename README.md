@@ -1,16 +1,5 @@
 # Nashville Houses Data Cleaning with SQL Server
 
-A SQL data cleaning project using the Nashville housing dataset.
-The following task completed for this project:
+SQL data cleaning project using the Nashville housing dataset.
 
--> Standardized date format using CAST and updated the table.
-    
--> By using a JOIN, populated the PropertyAddress fields where the value is NULL.
-
--> Broken out PropertyAddress and OwnerAddress fields into individual columns using SUBSTRING and PARSENAME functions.
-    
--> Changing Y and N to Yes and No in the SoldAsVacant field using CASE statement.
-    
--> Removed Duplicates using ROW_NUMBER, PARTITION BY, and CTE.
- 
--> Deleted a few unused fields using the DROP command.
+In the Nashville Housing Sales Data Cleaning project, I cleaned a public database on Nashville house sales. I used SQL Server in Azure Data Studio to execute queries that populated missing data, split data into new columns, removed unnecessary columns and some data exploration to find useful insigths.
